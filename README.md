@@ -1,4 +1,4 @@
-india-state-city-pin-db
+India Geolocation Database
 =======================
 
 State/City/Pin Database for India
